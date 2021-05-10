@@ -4,6 +4,7 @@ dependencies:
   - numpy
   - pandas
   - pip:
+    - matplotlib
     - plotly
     - ipywidgets
     - bqplot
